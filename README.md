@@ -1,5 +1,5 @@
-# SQL-Odev2
-SQL-Odev2
+# SQL-Odev2 | BETWEEN ve IN
+SQL-Odev2 | BETWEEN ve IN
 
 www.patika.dev
 
